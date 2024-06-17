@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+C:\Users\machk\gitkraken\Microcontroller_Dimmer_Altium\ElekSys_Microcontroller_Dimmer\Project Outputs for ElekSys_Microcontroller_Dimmer\Pick Place for MainBoard.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/06/24
+Time:       14:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                Layer    Footprint                         Center-X(mm) Center-Y(mm) Rotation Description                                                                                  
+TRI1       BT137S-600,118         TopLayer triac_bt137                       51.9825      37.4650      270      "Triac BT137S-600,118"                                                                       
+R13        "15k O"                TopLayer Res_0805                          101.8794     52.6542      90       "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R12        "470 O"                TopLayer Res_0805                          49.4378      28.8290      0        "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R11        "470 O"                TopLayer Res_0805                          43.7896      28.8036      0        "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R10        "820 O"                TopLayer Res_0805                          55.1942      28.8036      0        "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R9         "820 O"                TopLayer Res_0805                          99.0854      44.3738      90       "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R8         "15k O 1W"             TopLayer RES_THT_1W                        76.2000      29.2100      180      ""                                                                                           
+R7         "220k O"               TopLayer Res_0805                          60.3250      28.6004      0        "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R6         "15k O 1W"             TopLayer RES_THT_1W                        94.8944      42.1386      90       ""                                                                                           
+R5         "1k O"                 TopLayer Res_0805                          113.6396     53.8734      270      "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R4         "10K O"                TopLayer Res_0805                          107.0356     44.6532      90       "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R3         "15K O"                TopLayer Res_0805                          116.9162     53.8734      270      "WRIS-KSKE Thick Film Resistor, SMT, size 0805, 0.33W, 0.1O, +/-1%"                          
+R2         "470 O 1W"             TopLayer RES_THT_1W                        66.0400      85.7250      0        ""                                                                                           
+R1         "470 O 1W"             TopLayer RES_THT_1W                        94.8944      67.2673      90       ""                                                                                           
+L1         "2.2 mH"               TopLayer 2.2mH_inductor                    58.4200      62.2300      0        "Inductor  1140-222k-sc
+140-222K-RC"                                                        
+K2         61300311121            TopLayer connector_3p_M                    113.0300     44.4500      180      "WR-PHD Pin Header, THT, Vertical, pitch 2.54mm, 1 Row, 3P 61300311121"                      
+K1         691137910006           TopLayer 691137910006                      32.0000      59.6900      270      ""                                                                                           
+IC5        "optocoupler MOC3022S" TopLayer optoucoupler_MOC3022S             69.8500      37.4650      180      "integrated circuit"                                                                         
+IC4        "optocoupler MOC3022S" TopLayer optoucoupler_MOC3022S             102.6160     32.8930      90       "integrated circuit"                                                                         
+IC3        Optocoupler            TopLayer optocoupler_smd                   115.3668     33.0962      270      "Inductor SFH6206-3T"                                                                        
+IC2        PIC12F629-I_MF         TopLayer PIC12F629-I_MF                    108.8644     54.3874      90       "Integrated Circuit"                                                                         
+IC1        "VOL REG"              TopLayer Vol_reg                           111.5400     70.1700      0        "Integrated Circuit LM3480IM3X-5.0_NOPB"                                                     
+F1         FUSE                   TopLayer FUSE_MRT                          44.4500      84.4550      0        "Fuse MRT_1.6_AMMO"                                                                          
+D4         "LED GREEN"            TopLayer LED_0805                          114.3000     61.9100      90       "LED HSMG-C170"                                                                              
+D3         "0.5W 6.2V"            TopLayer Zener_Diodes_ZEN_REG_0.5W_6.2V    109.7788     32.6390      90       "Zener Diode
+SZMMSZ4691T1G"                                                                 
+D2         "0.5W 6.2V"            TopLayer Zener_Diodes_ZEN_REG_0.5W_6.2V    103.4288     44.3764      90       "Zener Diode
+SZMMSZ4691T1G"                                                                 
+D1         "16V 0.5W"             TopLayer DIOM5226X220N                     106.5276     70.7046      90       "Zener Diode
+SZ1SMA5930BT3G"                                                                
+C7         100nF                  TopLayer WCAP-CSGP_0805_L2W1.25H0.8_Reflow 98.4758      52.7304      90       "WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 50VDC" 
+C6         100nF                  TopLayer WCAP-CSGP_0805_L2W1.25H0.8_Reflow 106.6800     62.2300      0        "WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 50VDC" 
+C5         100nF                  TopLayer WCAP-CSGP_0805_L2W1.25H0.8_Reflow 110.4900     62.2300      90       "WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 50VDC" 
+C4         220uF                  TopLayer WCAP-ATG8_D8H11.5                 85.5700      86.3600      0        "WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D8 x H11.5mm, 220uF, 35V"           
+C3         220uF                  TopLayer WCAP-ATG8_D8H11.5                 96.5200      86.3600      0        "WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D8 x H11.5mm, 220uF, 35V"           
+C2         "220N X2"              TopLayer B32932A_(18_x_8.5)                85.0900      43.0600      90       "Capacitor B32932A3224K189"                                                                  
+C1         "220N X2"              TopLayer B32932A_(18_x_8.5)                85.0900      65.9200      90       "Capacitor B32932A3224K189"                                                                  
+B1         ""                     TopLayer TO508P370X2000X1310-4P            99.8474      69.3674      90       "Bridge Rectifier GBUA10M-BP"                                                                

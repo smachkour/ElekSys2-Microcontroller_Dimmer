@@ -1,0 +1,695 @@
+Added Component: Designator=B1(TO508P370X2000X1310-4P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/GBUA10M(JC).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GBUA10M-BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(B32932A_(18_x_8.5))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/film/emi/data_sheet/20/20/ds/mkt_b32932_936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B32932A3224K189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "871-B32932A3224K189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B32932A3224K189?qs=xUjyHVpcJwaD87vZwqy58g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(B32932A_(18_x_8.5))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/film/emi/data_sheet/20/20/ds/mkt_b32932_936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B32932A3224K189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "871-B32932A3224K189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B32932A3224K189?qs=xUjyHVpcJwaD87vZwqy58g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(WCAP-ATG8_D8H11.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/860010574011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/860010574011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "77uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "860010574011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ATG8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "385mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ATBE115221M035DSPA7B000"; VariantName = "[No Variations]"
+Added Component: Designator=C4(WCAP-ATG8_D8H11.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/860010574011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/860010574011?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "12%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "77uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "860010574011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ATG8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "385mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ATBE115221M035DSPA7B000"; VariantName = "[No Variations]"
+Added Component: Designator=C5(WCAP-CSGP_0805_L2W1.25H0.8_Reflow)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "2.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012207098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R0805104K050DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C6(WCAP-CSGP_0805_L2W1.25H0.8_Reflow)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "2.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012207098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R0805104K050DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C7(WCAP-CSGP_0805_L2W1.25H0.8_Reflow)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012207098?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "2.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012207098"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R0805104K050DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOM5226X220N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SZ1SMA5930BT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sz1sma5930bt3g/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/1SMA5913BT3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SZ1SMA5930BT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-SZ1SMA5930BT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/SZ1SMA5930BT3G?qs=PJJcWtbOkNU2Dey35wiGFw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(Zener Diodes ZEN REG 0.5W 6.2V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/szmmsz4691t1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SZMMSZ4691T1G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/SZMMSZ4691T1G?qs=PJJcWtbOkNVmtHltI2Mc2w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D3(Zener Diodes ZEN REG 0.5W 6.2V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/szmmsz4691t1g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SZMMSZ4691T1G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-SZMMSZ4691T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/SZMMSZ4691T1G?qs=PJJcWtbOkNVmtHltI2Mc2w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED 0805)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00083853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Avago Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HSMG-C170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "630-HSMG-C170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMG-C170?qs=YDL0qNrpDT4lm8ArMPkMEA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE MRT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MRT 1.6 AMMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mrt1.6-ammo/bel-group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-mrt-series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BelFuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MRT 1.6 AMMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-MRT1.6AMMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bel-Fuse/MRT-16-AMMO?qs=MvPYbBWWJyvzAphvU3%252BjhQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(Vol reg)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM3480IM3X-5.0/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm3480im3x-5.0nopb/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/LM3480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM3480IM3X-5.0/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM3480IM3X50NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM3480IM3X-5.0-NOPB?qs=X1J7HmVL2ZHSOja%2Fw1xDFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(PIC12F629-I_MF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC12F629-I/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic12f629-imf/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC12F629-I/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-PIC12F629-I/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/PIC12F629-I-MF?qs=Ux5rHyN1IXRyFoXTct%252B9Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(optocoupler smd)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SFH6206-3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sfh6206-3t/vishay?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/83675/sfh620a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFH6206-3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "782-SFH6206-3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SFH6206-3T?qs=%2Fjqivxn91cfcfJy%252Bpwis%2Fw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(optoucoupler MOC3022S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/moc3022s/lite-on-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/MOC3022S?qs=Xz6ZzMsXYiMGEjhojNzjUw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(optoucoupler MOC3022S)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/moc3022s/lite-on-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-MOC3022S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/MOC3022S?qs=Xz6ZzMsXYiMGEjhojNzjUw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=K1(691137910006)
+Add component (AddParameter): Name = "NexarPartId"; Value = "105950641"; VariantName = "[No Variations]"
+Added Component: Designator=K2(connector 3p M)
+Add component (AddParameter): Name = "Category"; Value = "Board-to-Board Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/61300311121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/61300311121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-PHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(2.2mH inductor)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1140-222K-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1140-222k-rc/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.bourns.com/docs/Product-Datasheets/1140_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "26.162mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1140-222K-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "542-1140-222K-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/1140-222K-RC?qs=oBhrY4n2hVwJtcTK7vYUOQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_THT_1W)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_THT_1W)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_THT_1W)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_THT_1W)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Res 0805)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560050320001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-KSKE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=TRI1(triac bt137)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BT137S-600,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bt137s-600118/ween-semiconductors?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6f648ac3c87a35283db8e9482e52c049.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "WeEn Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BT137S-600,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BT137S-600118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/WeEn-Semiconductors/BT137S-600118?qs=me8TqzrmIYXlu%252B8KdpBmXQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=IC1-1
+Added Pin To Net: NetName=+5 Pin=IC2-1
+Added Pin To Net: NetName=+5 Pin=K2-1
+Added Pin To Net: NetName=+5 Pin=R3-1
+Added Pin To Net: NetName=+5 Pin=R13-1
+Added Net: Name=+5
+Added Pin To Net: NetName=A/K_IC3 Pin=D3-1
+Added Pin To Net: NetName=A/K_IC3 Pin=IC3-1
+Added Pin To Net: NetName=A/K_IC3 Pin=R8-1
+Added Net: Name=A/K_IC3
+Added Pin To Net: NetName=ANODE_IC4 Pin=IC2-2
+Added Pin To Net: NetName=ANODE_IC4 Pin=R9-1
+Added Net: Name=ANODE_IC4
+Added Pin To Net: NetName=ANODE_IC5 Pin=IC2-6
+Added Pin To Net: NetName=ANODE_IC5 Pin=R10-1
+Added Net: Name=ANODE_IC5
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=GND Pin=K2-3
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GP2_IC2 Pin=IC2-5
+Added Pin To Net: NetName=GP2_IC2 Pin=IC3-4
+Added Pin To Net: NetName=GP2_IC2 Pin=R3-2
+Added Net: Name=GP2_IC2
+Added Pin To Net: NetName=GP3_IC2 Pin=C7-1
+Added Pin To Net: NetName=GP3_IC2 Pin=IC2-4
+Added Pin To Net: NetName=GP3_IC2 Pin=R13-2
+Added Net: Name=GP3_IC2
+Added Pin To Net: NetName=GP4_IC2 Pin=IC2-3
+Added Pin To Net: NetName=GP4_IC2 Pin=K2-2
+Added Net: Name=GP4_IC2
+Added Pin To Net: NetName=K/A_IC3 Pin=IC3-2
+Added Pin To Net: NetName=K/A_IC3 Pin=R4-2
+Added Net: Name=K/A_IC3
+Added Pin To Net: NetName=MAIN_TERMINAL_2_IC5 Pin=IC5-6
+Added Pin To Net: NetName=MAIN_TERMINAL_2_IC5 Pin=R12-1
+Added Net: Name=MAIN_TERMINAL_2_IC5
+Added Pin To Net: NetName=MAIN TERMINAL_1_IC4 Pin=IC4-4
+Added Pin To Net: NetName=MAIN TERMINAL_1_IC4 Pin=R6-2
+Added Pin To Net: NetName=MAIN TERMINAL_1_IC4 Pin=R7-1
+Added Net: Name=MAIN TERMINAL_1_IC4
+Added Pin To Net: NetName=MAIN TERMINAL_1_IC5 Pin=IC5-4
+Added Pin To Net: NetName=MAIN TERMINAL_1_IC5 Pin=TRI1-3
+Added Net: Name=MAIN TERMINAL_1_IC5
+Added Pin To Net: NetName=MAIN TERMINAL_2_IC4 Pin=IC4-6
+Added Pin To Net: NetName=MAIN TERMINAL_2_IC4 Pin=R7-2
+Added Pin To Net: NetName=MAIN TERMINAL_2_IC4 Pin=R8-2
+Added Net: Name=MAIN TERMINAL_2_IC4
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=C1-1
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=C2-1
+Added Pin To Net: NetName=NetB1_3 Pin=D2-1
+Added Pin To Net: NetName=NetB1_3 Pin=K1-3
+Added Pin To Net: NetName=NetB1_3 Pin=K1-4
+Added Pin To Net: NetName=NetB1_3 Pin=R4-1
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=C3-1
+Added Pin To Net: NetName=NetB1_4 Pin=C4-1
+Added Pin To Net: NetName=NetB1_4 Pin=C5-2
+Added Pin To Net: NetName=NetB1_4 Pin=D1-1
+Added Pin To Net: NetName=NetB1_4 Pin=IC1-2
+Added Net: Name=NetB1_4
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R6-1
+Added Pin To Net: NetName=NetC2_2 Pin=TRI1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R5-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=IC2-7
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=K1-5
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=L1-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetIC4_1 Pin=IC4-1
+Added Pin To Net: NetName=NetIC4_1 Pin=R9-2
+Added Net: Name=NetIC4_1
+Added Pin To Net: NetName=NetIC5_1 Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_1 Pin=R10-2
+Added Net: Name=NetIC5_1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK1_2 Pin=R11-2
+Added Pin To Net: NetName=NetK1_2 Pin=TRI1-2
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Net: Name=NetR11_1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
